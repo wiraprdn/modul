@@ -1,16 +1,27 @@
 {
   "name": "modul",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "latihan": "echo \"hello world\" ",
-    "start": "node index.js"
+    "start": "node index.js",
+    "wira": "node latihan1.js"
+
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiraprdn/modul.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wiraprdn/modul/issues"
+  },
+  "homepage": "https://github.com/wiraprdn/modul#readme",
+  "description": ""
 }
